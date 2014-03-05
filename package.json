@@ -1,6 +1,6 @@
 {
-    "name": "framework-snipits",
-    "main": "./lib/framework-snipits",
+    "name": "Snipits",
+    "main": "./lib/Snipits",
     "version": "0.0.0",
     "private": true,
     "description": "A short description of your package",
