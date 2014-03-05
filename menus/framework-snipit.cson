@@ -1,0 +1,16 @@
+# See https://atom.io/docs/latest/creating-a-package#menus for more details
+'context-menu':
+  '.overlayer':
+      'Enable framework-snipits': 'framework-snipits:toggle'
+
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'framework-snipits'
+      'submenu': [
+        { 'label': 'Toggle', 'command': 'framework-snipits:toggle' }
+      ]
+    ]
+  }
+]
