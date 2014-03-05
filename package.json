@@ -37,7 +37,7 @@
         "bs:add_badge",
         "bs:add_page-header"
         ],
-    "repository": "https://github.com/atom/framework-snipits",
+    "repository": "https://github.com/ndkline/Snipits",
     "license": "MIT",
     "engines": {
         "atom": ">0.50.0"
